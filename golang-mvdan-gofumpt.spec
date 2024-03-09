@@ -13,7 +13,7 @@ Version:		0.6.0
 Summary:	A stricter gofmt
 Name:		golang-github-mvdan-gofumpt
 
-Release:	1
+Release:	2
 Source0:	https://github.com/mvdan/gofumpt/archive/v%{version}/gofumpt-%{version}.tar.gz
 URL:		https://github.com/mvdan/gofumpt
 License:	BSD with advertising
