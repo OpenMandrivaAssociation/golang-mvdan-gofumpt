@@ -6,14 +6,14 @@
 # https://github.com/mvdan/gofumpt
 %global goipath		mvdan.cc/gofumpt
 %global forgeurl	https://github.com/mvdan/gofumpt
-Version:		0.6.0
+Version:		0.7.0
 
 %gometa
 
 Summary:	A stricter gofmt
 Name:		golang-github-mvdan-gofumpt
 
-Release:	2
+Release:	1
 Source0:	https://github.com/mvdan/gofumpt/archive/v%{version}/gofumpt-%{version}.tar.gz
 URL:		https://github.com/mvdan/gofumpt
 License:	BSD with advertising
